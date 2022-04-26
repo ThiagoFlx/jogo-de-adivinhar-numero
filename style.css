@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+  }
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: #8c8c8c;
+  }
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+    }
